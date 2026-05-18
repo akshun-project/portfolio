@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Akshun Jindal — Software Developer Portfolio
 
-## Getting Started
+A modern, cinematic, and fully responsive portfolio built to showcase scalable software engineering, modern frontend architecture, and refined digital experiences.
 
-First, run the development server:
+Designed with a strong focus on clean UI/UX, smooth interactions, performance, and recruiter-friendly presentation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Live Website
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔗 https://portfolio-plum-nine-orfdf7oxmk.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Overview
 
-To learn more about Next.js, take a look at the following resources:
+This portfolio was designed and developed to reflect a modern SaaS-inspired experience with cinematic motion, smooth scrolling, and minimal aesthetics while maintaining strong usability and responsiveness across all devices.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The goal was to create a portfolio that feels:
+- Modern
+- Premium
+- Interactive
+- Clean
+- Performance-focused
+- Recruiter-friendly
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Cinematic Hero Section
+- Smooth Scrolling Experience
+- Interactive Cursor
+- Responsive Design
+- Modern SaaS-inspired UI
+- Animated Scroll Transitions
+- Premium Motion Design
+- Interactive Grid Effects
+- Optimized Performance
+- Clean Component Architecture
+- Recruiter-focused Layout
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Tech Stack
+
+### Frontend
+- Next.js 16
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### UI & Motion
+- Lenis Smooth Scroll
+- Lucide React
+- React Icons
+
+### Deployment
+- Vercel
+
+---
+
+## Sections
+
+- Hero
+- Projects
+- Skills
+- Journey
+- Contact
+- Footer
+
+---
+
+## Performance & UX Focus
+
+Special attention was given to:
+- Mobile responsiveness
+- Visual hierarchy
+- Smooth interactions
+- Minimalistic UI
+- Accessibility
+- Performance optimization
+- Premium user experience
