@@ -134,8 +134,9 @@
 ========================= */
 
 html {
-  scroll-behavior: auto !important;
+    scroll-behavior: smooth;
   scrollbar-width: none;
+  
 }
 
 body {
