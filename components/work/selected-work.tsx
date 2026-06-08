@@ -39,15 +39,15 @@ const defaultItems: MenuItem[] = [
   },
 
   {
-    num: "03",
-    name: "TaskFlow",
-    clipId: "clip-pixels",
-    image:
-      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
-    description:
-      "Collaborative MERN workflow management platform with authentication, task systems, and team productivity tools.",
-    stack: ["MERN", "JWT", "React", "Tailwind"],
-  },
+  num: "03",
+  name: "Restaurant Management System",
+  clipId: "clip-pixels",
+  image:
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop",
+  description:
+    "Full-stack restaurant management platform with online ordering, cart system, authentication, order tracking, and admin dashboard for managing products and customers.",
+  stack: ["React", "Node.js", "MySQL", "JWT"],
+},
 ];
 
 export default function SelectedWork({
@@ -241,7 +241,7 @@ export default function SelectedWork({
                                 ? "https://res-call-seven.vercel.app/"
                                 : item.name === "StudyFlow"
                                   ? "https://study-flow-five.vercel.app/"
-                                  : "https://team-task-manager-ten-tawny.vercel.app/"
+                                  : "https://restaurant-working-system.vercel.app/"
                             }
                             target="_blank"
                             rel="noopener noreferrer"
